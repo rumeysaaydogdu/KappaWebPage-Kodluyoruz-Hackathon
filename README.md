@@ -1,4 +1,4 @@
 # kodluyoruz-hackathon
 first commit
 
-a commit with vistula stduo code
+a commit with visual studio code
