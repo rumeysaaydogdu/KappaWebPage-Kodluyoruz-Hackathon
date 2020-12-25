@@ -1,4 +1,4 @@
 # kodluyoruz-hackathon
 first commit
 
-second commit
+a commit with vistula stduo code
