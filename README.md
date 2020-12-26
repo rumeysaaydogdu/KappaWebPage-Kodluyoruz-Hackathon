@@ -6,6 +6,8 @@ Building a website with HTML and CSS Kodluyoruz Hackathon - Team Kappa
 
 As Kappa team, we came together remotely from different cities on Saturday, December 26, and created this website for Kodluyoruz Hackathon within 10 hours.
 
+|| 26.12.2020
+
 #  👾Screenshots of Kappa Web Site
 
 ![mainpage](https://user-images.githubusercontent.com/71151015/103158204-78c4dc80-47cc-11eb-9329-df0e4e16216f.PNG)
