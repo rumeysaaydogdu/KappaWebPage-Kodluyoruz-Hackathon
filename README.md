@@ -1,5 +1,4 @@
-# kodluyoruz-hackathon
-first commit
+# KappaWebPage-Kodluyoruz
 
-another commit with visual studio code this time
+Building a webpage with HTML and CSS Kodluyoruz Hackathon - Team Kappa
 
